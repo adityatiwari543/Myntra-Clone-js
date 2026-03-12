@@ -9,4 +9,10 @@ This is a responsive **Myntra Clone** built using **HTML, CSS, and JavaScript**.
 - Shopping bag/cart UI
 - Clean and user-friendly interface
 
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
+## Purpose
+This project was created to practice **front-end web development skills** and understand how an e-commerce website layout works.
