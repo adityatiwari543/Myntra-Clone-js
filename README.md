@@ -2,4 +2,11 @@
 
 This is a responsive **Myntra Clone** built using **HTML, CSS, and JavaScript**. The project replicates the basic design and functionality of the Myntra e-commerce platform, including product listing, navigation, and a modern UI.
 
+## Features
+- Responsive homepage design
+- Product listing section
+- Navigation bar with categories
+- Shopping bag/cart UI
+- Clean and user-friendly interface
+
 
